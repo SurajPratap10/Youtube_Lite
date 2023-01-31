@@ -19,10 +19,10 @@ YouTube Lite is a full-responsive web-based application built using Tailwind CSS
 5) React Router DOM - https://www.npmjs.com/package/react-r...<br>
 6) React Icons - https://www.npmjs.com/package/react-i...<br>
 <hr>
-<h2> Project Mockup and Demo: </h2>
+<h2> Project View and Demo: </h2>
 
 <p align="center">
-  <img src="w8.png"/>
+  <img src="yt1.png"/>
 </p>
 
 ### <p align="center"> Live Site: https://youtube-lite-suraj10.netlify.app/ </p>
