@@ -1,3 +1,35 @@
+# YouTube Lite
+
+YouTube Lite is a full-responsive web-based application built using Tailwind CSS for styling, ReactJS for dynamic user interface and Rapid API for video data. The app provides a simplified version of the YouTube platform, allowing users to browse and watch videos, search for content, and view channels. The app is designed to be lightweight and fast, making it accessible to users with slow internet connections. The interface is optimized for easy navigation, with a clean and intuitive layout that makes it simple for users to find the content they are looking for.
+<br>
+<br>
+## Technologies Used:
+
+1) React JS
+2) Tailwind CSS
+3) Rapid API
+4) Netlify
+
+## Installed NPM Packages:
+
+1) Axios - https://www.npmjs.com/package/axios-r... <br>
+2) React Player - https://www.npmjs.com/package/react-p...<br>
+3) JS Abbreviation Number - https://www.npmjs.com/package/js-abbr...<br>
+4) Moment - https://www.npmjs.com/package/moment <br>
+5) React Router DOM - https://www.npmjs.com/package/react-r...<br>
+6) React Icons - https://www.npmjs.com/package/react-i...<br>
+<hr>
+<h2> Project Mockup and Demo: </h2>
+
+<p align="center">
+  <img src="w8.png"/>
+</p>
+
+### <p align="center"> Live Site: https://youtube-lite-suraj10.netlify.app/ </p>
+
+<br>
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
