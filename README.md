@@ -1,6 +1,6 @@
 # YouTube Lite
 
-YouTube Lite is a full-responsive web-based application built using Tailwind CSS for styling, ReactJS for dynamic user interface and Rapid API for video data. The app provides a simplified version of the YouTube platform, allowing users to browse and watch videos, search for content, and view channels. The app is designed to be lightweight and fast, making it accessible to users with slow internet connections. The interface is optimized for easy navigation, with a clean and intuitive layout that makes it simple for users to find the content they are looking for.
+YouTube Lite is a fully-responsive web-based video-streaming application built using Tailwind CSS for styling, ReactJS for dynamic user interface and Rapid API for video data. The app provides a simplified version of the YouTube platform, allowing users to browse and watch videos, search for content, and view channels. The app is designed to be lightweight and fast, making it accessible to users with slow internet connections. The interface is optimized for easy navigation, with a clean and intuitive layout that makes it simple for users to find the content they are looking for.
 <br>
 <br>
 ## Technologies Used:
